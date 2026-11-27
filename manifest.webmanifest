@@ -1,13 +1,13 @@
 {
-  "name": "TradeTrack Trading Manager",
+  "name": "TradeTrack \u00b7 Trading Rule Monitor",
   "short_name": "TradeTrack",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0b1220",
-  "theme_color": "#101827",
-  "description": "Manage trading accounts, goals, checklists and trade journals.",
+  "background_color": "#090f19",
+  "theme_color": "#0a101b",
+  "description": "Mobile-first trading journal and Alpha Direct rule tracker.",
   "icons": [
     {
       "src": "icon.svg",
