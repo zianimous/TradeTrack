@@ -1,0 +1,19 @@
+{
+  "name": "TradeTrack Trading Manager",
+  "short_name": "TradeTrack",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "Manage trading accounts, goals, checklists and trade journals.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
